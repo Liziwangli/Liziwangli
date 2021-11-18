@@ -61,7 +61,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liziwangli&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![NET](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/net.png)
   ![Lizi](https://img.shields.io/badge/Blog-Https%3A%2F%2FLizi--nb.cn-orange)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
