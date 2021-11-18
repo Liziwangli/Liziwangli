@@ -1,5 +1,9 @@
 ## Hello GitHub Fans 👋
 [![qq](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/qq.svg)](https://baidu.com)
+[![微信](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/微信.svg)](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/weixin.png)
+[![网易云音乐](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/网易云音乐-01.svg)](https://baicu.com)
+[![今日头条](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/头条样式.svg)](https://baicu.com)
+[![抖音](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/抖音.svg)](https://baicu.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
