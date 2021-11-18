@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/comn.gif" />
 
 
 
