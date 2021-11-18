@@ -50,15 +50,17 @@
   </details>
 
 ## Contact
-
 [![qq](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/qq.svg)](https://baidu.com)
 [![微信](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/微信.svg)](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/weixin.png)
 [![网易云音乐](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/网易云音乐-01.svg)](https://baicu.com)
 [![今日头条](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/头条样式.svg)](https://baicu.com)
 [![抖音](https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/抖音.svg)](https://baicu.com)
 
-### 🛠 技术栈 | Tech Stack
+## Quantity
+![](https://visitor-badge.glitch.me/badge?page_id=Liziwangli)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liziwangli&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🛠 技术栈 | Tech Stack
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Lizi](https://img.shields.io/badge/Blog-Https%3A%2F%2FLizi--nb.cn-orange)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
