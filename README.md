@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/Liziwangli/MyblogImage/image/LiziGitIcon/comn.gif" />
+<img align="right" alt="moyu" src="https://api.vvhan.com/api/moyu" />
 
 
 
@@ -16,12 +16,11 @@
 > University student & .NET development direction
 > Currently working in Beijing, China.
 
-- 爱好：[ACGN](https://baike.baidu.com/item/ACGN)、科幻、绘画、开源、Web（以及一切有趣的东西）、~~摸鱼~~
-- 喜欢：西瓜、睡觉、纸片人（可爱的女孩子）、哆啦 A 梦
-- 讨厌：肥肉（啊，我是指吃的那种）
-- 运动：乒乓球 🏓 
-- 目标：后端工程师 || 全栈工程师
-- 梦想：环球旅行 && 作家  && 全职开源作者 && 🦸‍♂️（皆为不切实际的）
+- 爱好：科幻电影、简单绘画、旅游、以及一切有趣的东西、~~摸鱼~~
+- 喜欢：西瓜、睡觉、纸片人（可爱的女孩子）、史迪仔
+- 讨厌：肥肉（啊，我是指吃的那种）、夹子
+- 运动：游泳、徒步、爬山
+- 目标：有车有房有钱人
 
 ![工作就输了](https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/meme/no-work.jpg)
 
@@ -31,22 +30,15 @@
 <summary>此生想要完成的事情</summary>
 
 
-- [ ] 写一本值得出版的书
-
-- [ ] 做一款值得发售的游戏
-
-- [ ] 做一部有故事的动画短片
-
-- [ ] 画一本有趣的短篇漫画
-
-- [ ] 写一首藏有回忆的歌
+- [ ] 带喜欢的女孩子各地旅游
 
 - [ ] 在乡村老家有一栋按照自己想法建造的房子
 
-- [x] 成为一个自己不讨厌的、有趣的人
+- [ ] 成为一个自己不讨厌的、有趣的人
 
-  
+- [x] 买一辆车
 
+- [ ] 全部各地旅游（进行中）
   </details>
 
 ## Contact
